@@ -1,0 +1,23 @@
+{
+  "name": "repo-submodule",
+  "version": "1.0.0",
+  "description": "repo-submodule",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telmanagababov/repo-submodule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/telmanagababov/repo-submodule/issues"
+  },
+  "homepage": "https://github.com/telmanagababov/repo-submodule#readme"
+}
