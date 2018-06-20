@@ -1,5 +1,5 @@
 import { now } from 'lodash';
 
-export const getCurrentDate = () => now();
+export const getCurrentDate = () => 'current date is: ' + now();
 
 export default { getCurrentDate };
